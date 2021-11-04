@@ -1,5 +1,5 @@
 # EncryptedChat
-Practice project to make a chat in python with end to end encryption
+End to end encrypted chat
 
 To add:
 Public key and personal key stuff
